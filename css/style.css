@@ -58,7 +58,7 @@
     font-size: 40px;
 }
 .card button {
-    margin: 20px;
+    margin: 20px 80px;
     background: none;
     border: none;
     outline: none;
@@ -73,7 +73,7 @@
 
 .card button img {
     width: 150px;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
 .result {
